@@ -1,0 +1,4 @@
+DB_HOST = "yourhostname"
+DB_USER = "yourUserName"
+DB_PASSWORD = "yourDBPassword"
+DB_NAME= "yourDBName"
